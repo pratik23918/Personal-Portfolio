@@ -1,0 +1,28 @@
+.about-section{
+    background-color: #00BFFF;
+    padding-left: 15%;
+}
+.round-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+}
+.project{
+    background-color:#4FFFB0;
+}
+.footer{
+    background-color: #007FFF;
+}
+.bi {
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+.git-image{
+    margin-bottom: 50px;
+}
+.education{
+    background-color: #008B8B;
+}
+.skill{
+   background-color: #03C03C;
+}
